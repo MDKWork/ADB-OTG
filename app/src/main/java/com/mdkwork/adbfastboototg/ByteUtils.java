@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg;
+package com.mdkwork.adbfastboototg;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

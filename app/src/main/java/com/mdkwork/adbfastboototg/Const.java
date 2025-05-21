@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg;
+package com.mdkwork.adbfastboototg;
 
 /**
  * Created by xudong on 2/7/14.

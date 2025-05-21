@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg;
+package com.mdkwork.adbfastboototg;
 
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
@@ -40,9 +40,9 @@ import com.cgutman.adblib.AdbConnection;
 import com.cgutman.adblib.AdbCrypto;
 import com.cgutman.adblib.AdbStream;
 import com.cgutman.adblib.UsbChannel;
-import com.mdkwork.adbotg.Adapter.SliderAdapterExample;
-import com.mdkwork.adbotg.Model.SliderItem;
-import com.mdkwork.adbotg.UI.SpinnerDialog;
+import com.mdkwork.adbfastboototg.Adapter.SliderAdapterExample;
+import com.mdkwork.adbfastboototg.Model.SliderItem;
+import com.mdkwork.adbfastboototg.UI.SpinnerDialog;
 import com.smarteist.autoimageslider.IndicatorView.animation.type.IndicatorAnimationType;
 import com.smarteist.autoimageslider.SliderAnimations;
 import com.smarteist.autoimageslider.SliderView;
@@ -50,11 +50,11 @@ import com.smarteist.autoimageslider.SliderView;
 import java.io.File;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import static com.mdkwork.adbotg.Message.CONNECTING;
-import static com.mdkwork.adbotg.Message.DEVICE_FOUND;
-import static com.mdkwork.adbotg.Message.DEVICE_NOT_FOUND;
-import static com.mdkwork.adbotg.Message.FLASHING;
-import static com.mdkwork.adbotg.Message.INSTALLING_PROGRESS;
+import static com.mdkwork.adbfastboototg.Message.CONNECTING;
+import static com.mdkwork.adbfastboototg.Message.DEVICE_FOUND;
+import static com.mdkwork.adbfastboototg.Message.DEVICE_NOT_FOUND;
+import static com.mdkwork.adbfastboototg.Message.FLASHING;
+import static com.mdkwork.adbfastboototg.Message.INSTALLING_PROGRESS;
 
 public class MainActivity extends AppCompatActivity implements TextView.OnEditorActionListener, View.OnKeyListener {
     private Handler handler;

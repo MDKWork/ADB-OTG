@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg.Model;
+package com.mdkwork.adbfastboototg.Model;
 public class SliderItem {
 
     private String description;

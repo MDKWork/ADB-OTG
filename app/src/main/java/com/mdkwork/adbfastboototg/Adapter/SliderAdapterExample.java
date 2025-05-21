@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg.Adapter;
+package com.mdkwork.adbfastboototg.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,8 +8,8 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.mdkwork.adbotg.Model.SliderItem;
-import com.mdkwork.adbotg.R;
+import com.mdkwork.adbfastboototg.Model.SliderItem;
+import com.mdkwork.adbfastboototg.R;
 import com.smarteist.autoimageslider.SliderViewAdapter;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg.Utils;
+package com.mdkwork.adbfastboototg.Utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

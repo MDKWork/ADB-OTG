@@ -4,7 +4,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "com.mdkwork.adbotg"
+        applicationId "com.mdkwork.adbfastboototg"
         minSdkVersion 15
         targetSdkVersion 34
         versionCode 2
@@ -16,7 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'com.mdkwork.adbotg'
+    namespace 'com.mdkwork.adbfastboototg'
 }
 
 dependencies {

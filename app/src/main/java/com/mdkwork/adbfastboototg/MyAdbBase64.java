@@ -1,4 +1,4 @@
-package com.mdkwork.adbotg;
+package com.mdkwork.adbfastboototg;
 
 import android.util.Base64;
 

@@ -1,1 +1,2 @@
-include ':app', ':adblib', ':AndroidImageSlider'
+include ':app', ':adblib', ':autoimageslider'
+project(':autoimageslider').projectDir = file('Android-Image-Slider/autoimageslider')

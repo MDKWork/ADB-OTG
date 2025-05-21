@@ -1,4 +1,4 @@
-package com.htetznaing.adbotg;
+package com.mdkwork.adbotg;
 
 /**
  * Created by xudong on 2/7/14.

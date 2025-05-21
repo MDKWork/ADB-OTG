@@ -1,4 +1,4 @@
-package com.htetznaing.adbotg.Model;
+package com.mdkwork.adbotg.Model;
 public class SliderItem {
 
     private String description;

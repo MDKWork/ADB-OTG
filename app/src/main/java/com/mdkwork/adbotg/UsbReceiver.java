@@ -1,4 +1,4 @@
-package com.htetznaing.adbotg;
+package com.mdkwork.adbotg;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import android.util.Log;
 
-import static com.htetznaing.adbotg.Message.USB_PERMISSION;
+import static com.mdkwork.adbotg.Message.USB_PERMISSION;
 
 public class UsbReceiver extends BroadcastReceiver {
     @Override

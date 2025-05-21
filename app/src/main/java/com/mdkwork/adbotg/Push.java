@@ -1,4 +1,4 @@
-package com.htetznaing.adbotg;
+package com.mdkwork.adbotg;
 
 import android.os.Handler;
 import android.util.Log;

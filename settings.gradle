@@ -1,1 +1,1 @@
-include ':app', ':adblib'
+include ':app', ':adblib', ':AndroidImageSlider'
